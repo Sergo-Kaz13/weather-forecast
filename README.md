@@ -1,4 +1,5 @@
 ## Используя разные значения свойства display и отступы сверстать “Прогноз погоды”
+![maket](80df3953-7285-4f91-b0f6-7dc539e794b2.png "weather forecast")
 
 [Видео инструкция](https://www.youtube.com/watch?v=g9O7boOJzq4)
 ---
