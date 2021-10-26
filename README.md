@@ -12,4 +12,7 @@
     + Иконки берем от сюда https://erikflowers.github.io/weather-icons/ 
 
 > *Для плавных анимаций используйте CSS код: *{transition: all .1s ease-in;}*
+
+---
+
 > *Шрифт: “Lucida Sans Unicode”, “Lucida Grande”, sans-serif*
